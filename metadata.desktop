@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Panda
+Description=Nordic sddm theme
+Author=Eliver Lara
+Copyright=
+License=GPL 3+
+Type=sddm-theme
+Version=0.1
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=Panda
+Theme-API=2.0
